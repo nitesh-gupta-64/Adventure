@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-@media(min-width: 700px) {
+@media(min-width: 1000px) {
 
     #wrapper{
         height: 100vh;
@@ -104,7 +104,7 @@
 }
 
 
-@media(max-width: 700px) {
+@media(max-width: 1000px) {
 
     #wrapper{
         height: 100vh;
